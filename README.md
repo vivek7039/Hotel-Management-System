@@ -1,0 +1,1 @@
+Hotel-managment-system: This is an desktop application that creates simplicity for the hotel owners and workers to manage the various activities taking place in their hotels. The project has been written entirely in python and the database used is Mysql.
